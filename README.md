@@ -6,7 +6,7 @@ Mindmap for android gradle plugin.
 
 ## Color notes
 
-![task group](https://img.shields.io/badge/%23D9252E-task%20group-D9252E.svg) ![task](https://img.shields.io/badge/%233C913B-tas-3C913B.svg)
+![task group](https://img.shields.io/badge/%233C913B-task%20group-3C913B.svg) ![task](https://img.shields.io/badge/%23D9252E-task-D9252E.svg) 
 
 
 ## Preview
