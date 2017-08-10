@@ -1,6 +1,7 @@
 # Android_Gradle_Plugin-in-one-pic
 
-![PullRequest](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![PullRequest](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)  
+
 Mindmap for android gradle plugin.
 
 ## Color notes
@@ -10,5 +11,5 @@ Mindmap for android gradle plugin.
 
 ## Preview
 
-![Preview](agp in one pic.png)
+![Preview](https://github.com/chenenyu/android_gradle_plugin-in-one-pic/blob/master/agp%20in%20one%20pic.png)
 
